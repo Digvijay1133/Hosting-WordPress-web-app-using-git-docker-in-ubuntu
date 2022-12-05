@@ -1,1 +1,0 @@
-# Hosting-WordPress-web-app-using-git-docker-in-ubuntu
